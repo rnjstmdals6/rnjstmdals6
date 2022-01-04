@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 안녕하세요. 백엔드개발자를 꿈꾸는 권승민입니다. 👋
+[![Hits](https://hits/seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frnjstdmals6)](https://hits/seeyoufarm.com)
 <!--
 **rnjstmdals6/rnjstmdals6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
