@@ -3,7 +3,7 @@
 <div align = center>
 
   ### 👋Hi there!
-  I'm dreaming of becoming a <b>backend developer.</b> <br>
+  I'm developer.</b> <br>
   I am always trying to learn new skills and development methods, <br>
   and I am growing through various project experiences. 👯
 
